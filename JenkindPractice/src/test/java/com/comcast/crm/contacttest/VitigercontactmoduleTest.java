@@ -208,6 +208,11 @@ public class VitigercontactmoduleTest extends BaseClass {
 		}
 
 	}
+	
+	@Test
+	public void practiceTest() {
+		System.out.println("Test completed");
+	}
 
 
 }
